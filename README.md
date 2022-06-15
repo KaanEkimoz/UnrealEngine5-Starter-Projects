@@ -1,7 +1,7 @@
 # Unreal Engine 5 Starter Projects
  My UE5 Starter Projects and Learning Progress
  
- # First Game: Wreckage Ball
+![#f03c15] # First Game: Wreckage Ball `#f03c15`
  
 ![pineapple_'](https://user-images.githubusercontent.com/79421047/173711119-e41fffca-31b9-4b45-b94b-4edf985f817b.png)
  
