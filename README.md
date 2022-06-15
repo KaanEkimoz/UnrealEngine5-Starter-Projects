@@ -1,5 +1,5 @@
-# UnrealEngine5-Starter-Projects
- My UE5 Learning Projects and Progress
+# Unreal Engine 5 Starter Projects
+ My UE5 Starter Projects and Learning Progress
  
  # First Game: Wreckage Ball
  
@@ -31,4 +31,28 @@ This was my first C++ project. I've created my own classes and bluprints via scr
  -Unreal Types: FVector, FRotator, UPROPERTY…
  
  -GameMode and Character Classes
+ 
+ # Third Game: Mystic Dungeon
+ 
+ Again it's a C++ project but this time the classes and codes are more complicated. I also used lumen (lightning tool in UE5) and level design tools built in UE5. I designed 2 levels but then channged my opinion and only made 1 level which was enough for prototyping. It's high graphical and atmospheric, first-person exploration, puzzle-game.
+
+![ss3](https://user-images.githubusercontent.com/79421047/173781150-535e7309-e606-4cab-896c-dc64556e1e9d.png)
+
+What I've Learned from this game:
+
+-Pointers and References
+
+-Actor Components and Scene Components
+
+-Including Header Files
+
+-Lighting with Lumen
+
+-Modular Level Design
+
+-Line Tracing and Collisions
+
+-Calling C++ Functions from Blueprint
+
+
 
